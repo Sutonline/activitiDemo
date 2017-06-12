@@ -10,7 +10,7 @@
 
     <properties>
         <jdk.version>1.8</jdk.version>
-        <actVer>6.0.0.Beta4</actVer>
+        <actVer>6.0.0</actVer>
 
         <!-- plugin  -->
         <maven.compiler.version>3.6.1</maven.compiler.version>
